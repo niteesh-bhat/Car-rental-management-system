@@ -10,6 +10,6 @@
 6. You can navigaate to the system via localhost/carrental.
 7. Username and password are provided in **READ ME FIRST !!!!.txt**.
 
-###**Screenshot of the project** :arrow_down:
+### **Screenshot of the project** :arrow_down:
 
 ![car-rental-system](Screenshot/screencapture-localhost-work-carrental.png)
