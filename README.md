@@ -7,3 +7,7 @@
 3. When it has been created, navigate to import tab. Then select the sql file in this folder. Select go.
 4. You can navigaate to the system via localhost/carrental
 5. Username and password are provided in **READ ME FIRST !!!!.txt**.
+
+**Screenshot of the project**
+
+![car-rental-system](Screenshot/screencapture-localhost-work-carrental.png)
